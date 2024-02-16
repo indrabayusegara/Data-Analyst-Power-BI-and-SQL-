@@ -142,3 +142,8 @@ ORDER BY Total_Orders ASC
 ### Sales analysis
 ---
 #### The results obtained from conducting this sales analysis are as follows :
+> Insight
+##### 1. BUSIEST DAYS & TIMES
+##### 2.  
+##### 3. 
+##### 4. 
