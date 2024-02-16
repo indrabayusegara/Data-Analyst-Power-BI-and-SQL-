@@ -172,3 +172,10 @@ ORDER BY Total_Orders ASC
 ###### C. TOTAL ORDERS
 ###### | The Brie Carre Pizza Contributes to minimum Total Orders
 ---
+
+### Result with Power BI
+#### Home Interactive Page
+![Home BI](https://github.com/indrabayusegara/Data-Analyst-Power-BI-and-SQL-/assets/75928437/e7661974-b8ff-4217-bf3d-8fe8f65ea512)
+
+#### Worst/Best Seller Page
+![Worst-Best_seller](https://github.com/indrabayusegara/Data-Analyst-Power-BI-and-SQL-/assets/75928437/bd94a572-a42b-4051-a45a-1c4e82e7f788)
