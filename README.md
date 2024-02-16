@@ -138,3 +138,7 @@ WHERE pizza_category = 'Classic'
 GROUP BY pizza_name
 ORDER BY Total_Orders ASC
 ```
+
+### Sales analysis
+---
+#### The results obtained from conducting this sales analysis are as follows :
