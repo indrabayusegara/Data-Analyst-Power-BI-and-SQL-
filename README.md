@@ -143,7 +143,32 @@ ORDER BY Total_Orders ASC
 ---
 #### The results obtained from conducting this sales analysis are as follows :
 > Insight
+---
 ##### 1. BUSIEST DAYS & TIMES
-##### 2.  
-##### 3. 
-##### 4. 
+###### A. DAYS
+###### | Orders are Highest on weekends, Friday/Saturday evenings
+###### B. MONTHLY
+###### | There are Maximum orders from month of July and January
+---
+##### 2. SALES PERFORMANCE
+###### A. CATEGORY
+###### | Classic Category contibutes to maximum sales & total orders.
+###### B. SIZE
+###### | Large size pizza contibutes to maximum sales
+---
+##### 3. BEST SELLERS
+###### A. REVENUE
+###### | The Thai Chicken Pizza Contributes to maximum Revenue
+###### B. QUANTITY
+###### | The Classic Deluxe Pizza Contributes to maximum Total Quantities
+###### C. TOTAL ORDERS
+###### | The Classic Deluxe Pizza Contributes to maximum Total Orders
+---
+##### 4. WORST SELLERS
+###### A. REVENUE
+###### | The Brie Carre minimum Revenue
+###### B. QUANTITY
+###### | The Brie Carre Pizza Contributes to minimum Total qunatity
+###### C. TOTAL ORDERS
+###### | The Brie Carre Pizza Contributes to minimum Total Orders
+---
